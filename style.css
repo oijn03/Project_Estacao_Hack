@@ -1,0 +1,60 @@
+h1, h2, h3, h4, h5, h6, h7 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+}
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+}
+
+.box1 {
+    width: 1330.300px;
+    padding: 40px;
+    text-align: center;
+}
+.box2 {
+    width: 1330.300px;
+    padding: 40px;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+}
+.container-2 {
+    display: flex;
+    width: 1410.300px;
+    justify-content: space-around;
+}
+.box3 {
+    flex:1;
+    padding: 3px;
+}
+.box4 {
+    flex: 1;
+    padding: 3px;
+}
+.box5 {
+    flex: 1;
+    padding: 3px;
+}
+.box6 {
+    width: 1330.300px;
+    padding: 40px;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+}
+.container-3 {
+    display: flex;
+    width: 1410.300px;
+} 
+.box7 {
+    flex: 1;
+}
+.box8 {
+    flex: 1;
+}
+.box9 {
+    width: 1330.300px;
+    padding: 40px;
+    text-align: center
+}
